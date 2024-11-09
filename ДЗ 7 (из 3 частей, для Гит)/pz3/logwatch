@@ -1,0 +1,8 @@
+Output = mail
+Encode = none
+Format = text
+MailTo = root
+MailFrom = Logwatch
+Range = yesterday
+Detail = Med
+Service = sshd vsftpd
